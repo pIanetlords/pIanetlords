@@ -1,3 +1,4 @@
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/dd11b617-d28f-4721-bba3-c12b0aa19502" />
 [![Hits](https://hits.sh/github.com/pIanetlords.svg?style=plastic&label=(%20%EA%9C%86%E2%8C%AF'%20'%E2%8C%AF)%EA%9C%86%E2%99%A1&color=1e1e1d&labelColor=d4d1bb&logo=Lion)](https://hits.sh/github.com/pIanetlords/)
 
 <!--
